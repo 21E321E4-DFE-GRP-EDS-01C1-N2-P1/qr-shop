@@ -25,5 +25,6 @@
 <h2>Funcionalidades Sugeridas</h2>
   <ul>
     <li>Notificação de Email</li>
-    
+    <li>Status de pagamento</li>
+    <li>Status de envio</li>
   </ul>
