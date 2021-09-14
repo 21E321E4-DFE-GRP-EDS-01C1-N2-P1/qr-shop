@@ -16,10 +16,14 @@
   
 <h2>Tecnologias</h2>
   <ul>
-    <li>Tecnologias</li>
+    <li>Javascript</li>
+    <li>Vue.js</li>
+    <li>Node.js</li>
+    <li>mongoDB</li>
   </ul>
   
 <h2>Funcionalidades Sugeridas</h2>
   <ul>
     <li>Notificação de Email</li>
+    
   </ul>
